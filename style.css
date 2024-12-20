@@ -3,8 +3,14 @@
     background-image: url("img/hero-bg-2.jpg");
     background-position: center;
     background-size: cover;
+    height:600;
+    width:500;
   }
 
   .navy{
     background-color: #0e3982;
   }
+.player{
+  height:450px;
+  margin:0;
+}
